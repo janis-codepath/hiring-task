@@ -7,4 +7,5 @@ At the moment, your application is still being processed. Before we can admit te
 Please rest assured that there is no problem with your application and we will get back to you as soon as the process is completed.
 
 All the best,
+
 CodePath.org Team
