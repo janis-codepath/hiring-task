@@ -2,7 +2,7 @@ Hi Jake!
 
 Thank you for reaching out! Here are the remaining steps for you to complete your application:
 
-1.Submit your todo app for review via **Github**.
+1. Submit your todo app for review via **Github**.
 2. Add edit functionality to your todo app.
 3. Extend your todo app, improve your UI, and add features.
 
