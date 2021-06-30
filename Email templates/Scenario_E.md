@@ -13,4 +13,5 @@ Regarding the class schedule, classes meet **once or twice per week for 1-2 hour
 I hope I was able to answer your inquiries and help you with your application.
 
 All the best,
+
 CodePath.org Team
