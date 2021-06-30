@@ -7,4 +7,5 @@ We try to make our courses available to as many people as possible, and it reall
 We wish you the best of luck!
 
 All the best,
+
 CodePath.org Team
