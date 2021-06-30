@@ -7,4 +7,5 @@ We admit students based on their technical interview skills, and we don’t want
 I hope you understand where we're coming from, and we wish you all the best moving forward.
     
 All the best,
+
 CodePath.org Team
